@@ -1,0 +1,14 @@
+**TICKET**
+Place a link to your JIRA ticket here
+
+**CHECKOUT SCRIPT**
+Paste the output of the ./bin/create-checkout-script.sh here for you feature
+
+**TESTING**
+Instructions on how to test your feature
+
+**RELATED PRS**
+Links to github pull requests relating to this feature
+
+**NOTES**
+Any additional info (deploy order/config changes to be made etc.) goes here
